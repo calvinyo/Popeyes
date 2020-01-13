@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Titling</title>
+</head>
+<body>
+
+<h1>Popeye's Chicken</h1>
+
+<a href="https://www.popeyes.com/"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Popeyes_Louisiana_Kitchen.svg/1200px-Popeyes_Louisiana_Kitchen.svg.png" width="150" height="180"></a>
+
+<p>"When all the cards are down, all hope lost, all self-dignity robbed barren and not a cent left to pay for one square foot of rent you, the Poseidon of Fast Food Poultry, emerge from the deep-fried depths of the hot sauce ocean atop a five dollar hydra of drumsticks and batter to rescue those who cannot rescue themselves.
+
+    Self-loathing thy name is Popeye's Chicken & Biscuits."</p>
+<p>The love of my life and I both met in Kentucky. We never had fried chicken there together, but we did here.
+
+    We ordered our chicken through the barricaded opening and only had to wait a brief amount of time before we got our greasy, filling, deliciousness. (We were super poor at the time; it was probably the only meal we'd eat in 2 or 3 days and it was absolutely delicious).
+</p>
+<p>The staff is friendly despite being behind a barricade. The food is tasty if you're into greasy goodness ( i am). The music playing that day was oldies. Mostly The Righteous Brothers. The juxtaposition of such music in that environment piqued my interests. In what, I'm not so sure, maybe just my crispy, fried chicken breast.
+    
+    I honestly can't listen to The Righteous Brothers without crying anymore. I miss you, Dimitri. Let's get trashed and press our luck at this lovely piece of grease and bone just one last time.</p>
+
+<a href="https://www.popeyes.com/"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Popeyes_Louisiana_Kitchen.svg/1200px-Popeyes_Louisiana_Kitchen.svg.png" width="150" height="180"></a>
+
+<a href="https://www.popeyes.com/"></a> <button>Get yo Chicken on</button></a>
+
+<ul>
+    <li>Chicken</li>
+    <li>fried</li>
+    <li>delicious</li>
+  </ul>
+  
+</body>
+</html>
