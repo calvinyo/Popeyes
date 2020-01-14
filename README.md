@@ -1,2 +1,2 @@
 # Popeyes
- Get yo Chicken on
+A simple chicken project.
